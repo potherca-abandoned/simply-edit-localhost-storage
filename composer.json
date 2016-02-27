@@ -1,0 +1,10 @@
+{
+    "name": "potherca/simply-edit-localhost-storage",
+    "description": "Application to store data during local development of a SimplyEdit enabled website.",
+    "license": "GPL-3.0+",
+    "require": {
+        "php": ">=5.6",
+        "league/flysystem-aws-s3-v3": "^1.0",
+        "integral/flysystem-pdo-adapter": "^1.0"
+    }
+}
